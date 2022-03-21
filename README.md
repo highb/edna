@@ -1,5 +1,7 @@
 edna -- an MP3 server
 
+This repo has been archived because it is very out of date and unused.
+
 Please see http://edna.sourceforge.net/ for all installation and
 usage instructions.
 
